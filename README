@@ -1,0 +1,23 @@
+# Coffee Shop Challenge
+
+## Description
+This is a coffee shop management application that demonstrates the use of classes, object relationships, and basic CRUD operations.
+
+## Learning Goals
+- Create and manipulate Ruby classes and objects
+- Understand and implement object relationships
+- Practice working with arrays and hashes
+- Implement basic CRUD (Create, Read, Update, Delete) operations
+
+## Classes
+- `Customer`: Represents a coffee shop customer
+- `Drink`: Represents a drink available at the coffee shop
+- `Order`: Manages the relationships between customers and drinks
+
+## Features
+- Create new customers and drinks
+- Place orders
+- View order history
+- Calculate total sales
+- Track customer preferences
+
